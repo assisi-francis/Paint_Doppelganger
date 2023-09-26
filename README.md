@@ -10,4 +10,5 @@ The app has eraser, which can be used to erase errors when painting
 
 ## AUTHORS
 Francis Anyah anyahfrancis@gmail.com
+
 Ugochukwu Stella stellaugochukwu100@gmail.com
