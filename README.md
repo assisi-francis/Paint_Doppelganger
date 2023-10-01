@@ -12,3 +12,24 @@ The app has eraser, which can be used to erase errors when painting
 Francis Anyah anyahfrancis@gmail.com
 
 Ugochukwu Stella stellaugochukwu100@gmail.com
+
+## Setup & Installation
+Make sure you have the latest version of Python installed.
+
+```bash
+git clone <repo-url>
+```
+
+```bash
+pip install -r requirements.txt
+```
+
+## Running The App
+
+```bash
+python main.py
+```
+
+## Viewing The App
+
+Go to `http://127.0.0.1:5000`
